@@ -1,4 +1,3 @@
-
 # Regex Pattern Matcher
 
 AI-powered text pattern replacement for CSV and Excel files using natural language input.
@@ -30,6 +29,7 @@ python manage.py runserver
 ```bash
 cd frontend
 npm install
+# Update API URLs in React code to match backend port
 npm start
 ```
 
@@ -51,4 +51,4 @@ npm start
 
 ## Configuration
 - Hugging Face API token is configured in `backend/views.py`
-- No additional environment setup required
+- Update frontend API URLs to match backend port (default: http://localhost:8000)
