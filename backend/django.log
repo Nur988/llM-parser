@@ -1,0 +1,23 @@
+INFO 2025-06-18 10:52:01,650 autoreload 20789 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 10:52:07,118 autoreload 20902 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 10:53:04,728 autoreload 20902 8454774528 /Users/chowdhurynurealamsiddiqi/Rhombus-project/backend/backend/settings.py changed, reloading.
+INFO 2025-06-18 10:53:04,895 autoreload 21450 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 10:53:08,836 autoreload 21463 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 10:53:32,542 autoreload 21463 8454774528 /Users/chowdhurynurealamsiddiqi/Rhombus-project/backend/backend/settings.py changed, reloading.
+INFO 2025-06-18 10:53:32,733 autoreload 21791 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 10:53:40,805 basehttp 21791 6198996992 "GET / HTTP/1.1" 200 12068
+WARNING 2025-06-18 10:53:40,900 log 21791 6198996992 Not Found: /favicon.ico
+WARNING 2025-06-18 10:53:40,902 basehttp 21791 6198996992 "GET /favicon.ico HTTP/1.1" 404 2209
+WARNING 2025-06-18 10:55:27,992 log 21791 6215823360 Not Found: /api/upload/
+WARNING 2025-06-18 10:55:27,992 basehttp 21791 6215823360 "POST /api/upload/ HTTP/1.1" 404 2210
+INFO 2025-06-18 10:57:14,014 autoreload 21791 8454774528 /Users/chowdhurynurealamsiddiqi/Rhombus-project/backend/backend/urls.py changed, reloading.
+INFO 2025-06-18 10:57:14,333 autoreload 24152 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 11:28:27,757 autoreload 24152 8454774528 /Users/chowdhurynurealamsiddiqi/Rhombus-project/backend/backend/urls.py changed, reloading.
+INFO 2025-06-18 11:28:28,052 autoreload 43444 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 11:28:32,197 autoreload 43444 8454774528 /Users/chowdhurynurealamsiddiqi/Rhombus-project/backend/backend/urls.py changed, reloading.
+INFO 2025-06-18 11:28:32,391 autoreload 43450 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 11:28:53,790 autoreload 43732 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 11:31:13,363 autoreload 43732 8454774528 /Users/chowdhurynurealamsiddiqi/Rhombus-project/backend/api/views.py changed, reloading.
+INFO 2025-06-18 11:31:13,701 autoreload 45185 8454774528 Watching for file changes with StatReloader
+INFO 2025-06-18 11:54:02,084 autoreload 45185 8454774528 /Users/chowdhurynurealamsiddiqi/Rhombus-project/backend/api/views.py changed, reloading.
+INFO 2025-06-18 11:54:02,388 autoreload 56032 8454774528 Watching for file changes with StatReloader

@@ -1,0 +1,21 @@
+ID,Name,Email,Phone,Address,City,State,ZIP,SSN,Credit_Card,Birth_Date,Salary,Department,Status
+1,John Smith,john.smith@email.com,555-123-4567,123 Main Street,New York,NY,10001,123-45-6789,4532-1234-5678-9012,01/15/1985,75000,Engineering,Active
+2,Jane Doe,jane.doe@company.org,555-987-6543,456 Oak Avenue,Los Angeles,CA,90210,987-65-4321,5555-4444-3333-2222,03/22/1990,68000,Marketing,Active
+3,Mike Johnson,mike.j@test.com,(555) 111-2222,789 Pine Road,Chicago,IL,60601,555-44-3333,4111-1111-1111-1111,12/08/1988,82000,Sales,Inactive
+4,Sarah Wilson,sarah.wilson@domain.net,555.333.4444,321 Elm Street,Houston,TX,77001,444-33-2222,3782-8224-6310-005,07/30/1992,71000,HR,Active
+5,David Brown,david.brown@website.com,555-555-5555,654 Maple Drive,Phoenix,AZ,85001,333-22-1111,6011-1111-1111-1117,09/12/1987,79000,Finance,Active
+6,Lisa Garcia,lisa.garcia@mail.co,555 777 8888,987 Cedar Lane,Philadelphia,PA,19101,222-11-0000,4000-0000-0000-0002,05/18/1991,73000,Engineering,Active
+7,Robert Taylor,bob.taylor@example.com,+1-555-666-7777,147 Birch Court,San Antonio,TX,78201,111-00-9999,5424-0000-0000-0015,11/25/1989,84000,IT,Active
+8,Amanda Martinez,amanda.m@testsite.org,(555)999-0000,258 Spruce Way,San Diego,CA,92101,000-99-8888,4916-0000-0000-0004,02/14/1993,66000,Marketing,Inactive
+9,Christopher Lee,chris.lee@mailbox.net,555-222-3333,369 Walnut Place,Dallas,TX,75201,999-88-7777,4532-0000-0000-0008,08/07/1986,77000,Sales,Active
+10,Jennifer White,jen.white@inbox.com,555.444.5555,741 Chestnut Street,Austin,TX,78701,888-77-6666,5555-0000-0000-0001,04/03/1994,70000,HR,Active
+11,Matthew Davis,matt.davis@emailprovider.com,555-888-9999,852 Hickory Avenue,Jacksonville,FL,32201,777-66-5555,3566-0000-0000-0006,10/21/1990,75500,Finance,Active
+12,Nicole Anderson,nicole.a@webmail.org,(555) 123-9876,963 Poplar Drive,San Francisco,CA,94101,666-55-4444,6011-0000-0000-0012,06/16/1988,81000,IT,Active
+13,Kevin Thomas,kevin.thomas@service.net,555 654 3210,159 Sycamore Road,Columbus,OH,43201,555-44-3333,4000-1111-1111-1111,01/29/1985,72000,Engineering,Inactive
+14,Rachel Johnson,rachel.j@provider.com,555-321-6789,753 Willow Lane,Fort Worth,TX,76101,444-33-2222,5424-1111-1111-1111,12/11/1991,68500,Marketing,Active
+15,Steven Wilson,steve.wilson@mail.com,555.987.1234,486 Ash Street,Charlotte,NC,28201,333-22-1111,4916-2222-2222-2222,03/08/1987,79500,Sales,Active
+16,Michelle Brown,michelle.b@email.net,(555)456-7890,217 Magnolia Court,Seattle,WA,98101,222-11-0000,4532-3333-3333-3333,09/24/1992,74000,HR,Active
+17,Daniel Garcia,dan.garcia@testmail.org,555-789-0123,348 Dogwood Way,Denver,CO,80201,111-00-9999,5555-4444-4444-4444,07/02/1989,83000,Finance,Active
+18,Ashley Martinez,ashley.m@sample.com,555 012 3456,591 Redwood Place,Boston,MA,02101,000-99-8888,6011-5555-5555-5555,11/13/1993,67000,IT,Inactive
+19,Joseph Taylor,joe.taylor@example.net,555-234-5678,672 Cypress Avenue,El Paso,TX,79901,999-88-7777,4000-6666-6666-6666,05/27/1986,76000,Engineering,Active
+20,Stephanie Lee,steph.lee@mailservice.com,555.345.6789,825 Hemlock Drive,Nashville,TN,37201,888-77-6666,5424-7777-7777-7777,02/19/1994,71500,Marketing,Active
