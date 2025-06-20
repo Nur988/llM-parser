@@ -1,4 +1,4 @@
-[![Regex Pattern Matcher Demo](https://img.youtube.com/vi/SMoFBOFIw0A/maxresdefault.jpg)](https://youtu.be/SMoFBOFIw0A)
+
 # Regex Pattern Matcher
 
 AI-powered text pattern replacement for CSV and Excel files using natural language input.
